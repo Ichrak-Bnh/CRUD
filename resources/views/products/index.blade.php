@@ -22,7 +22,7 @@
                 <th>ID</th>
                 <th>Nom</th>
                 <th>Auteur</th>
-                <th>Détails</th>
+                <th>description</th>
                 <th width="300px">Action</th>
             </tr>
         </thead>
